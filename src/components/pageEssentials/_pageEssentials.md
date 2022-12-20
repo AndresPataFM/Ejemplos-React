@@ -1,0 +1,1 @@
+Estos componentes son para el funcionamiento de la página y no forman parte del resumen.
